@@ -67,7 +67,7 @@ indent-string='    '
 [BASIC]
 
 # Required attributes for module, separated by a comma
-required-attributes=__version__
+required-attributes=
 
 # List of builtins function names that should not be used, separated by a comma
 bad-functions=map,filter,apply
